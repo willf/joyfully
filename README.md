@@ -23,7 +23,7 @@ print(joyfully.hello_world())
 
 ## Contributing
 
-We welcome contributions to Joyfully. Please see our [contributing guidelines](contibuting.md) for more information.
+We welcome contributions to Joyfully. Please see our [contributing guidelines](contributing.md) for more information.
 
 ## Code of Conduct
 
