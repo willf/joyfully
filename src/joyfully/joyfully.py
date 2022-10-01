@@ -17,4 +17,5 @@ def hello_world(s: str = "Hello World!") -> str:
 
 if __name__ == "__main__":
     import doctest
+
     doctest.testmod()
